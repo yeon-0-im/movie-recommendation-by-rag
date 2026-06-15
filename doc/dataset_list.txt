@@ -1,0 +1,12 @@
+
+https://ratsgo.github.io/embedding/downloaddata.html
+
+https://github.com/MinjiHa/Project_NLP_MovieForYou/tree/master
+
+https://ai.stanford.edu/~amaas/data/sentiment/
+
+* 네이버 영화 리뷰 데이터셋
+https://github.com/e9t/nsmc
+
+* nsmc 기반 감정 분석
+https://github.com/reniew/NSMC_Sentimental-Analysis

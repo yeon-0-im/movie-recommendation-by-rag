@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Django
+backend/db.sqlite3
+backend/staticfiles/
+
+# ChromaDB (벡터 데이터 — 용량 크고 재구축 가능)
+chroma_db/
+
+# 데이터 / 크롤링 결과
+data/
+crawl/
+output/
+notebooks/
+
+# Frontend (별도 git repo로 관리)
+frontend/
+
+# 기타
+.DS_Store
+*.log
+doc/*.png
