@@ -19,8 +19,10 @@ crawl/
 output/
 notebooks/
 
-# Frontend (별도 git repo로 관리)
-frontend/
+# Frontend
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
 
 # 기타
 .DS_Store
